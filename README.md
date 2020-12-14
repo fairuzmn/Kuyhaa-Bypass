@@ -39,11 +39,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/fairuzmn/bypassipeenk.git
-    $ cd bypassipeenk
+    $ git clone https://github.com/fairuzmn/Kuyhaa-Bypass.git
+    $ cd kuyhaa-bypass
     $ npm install
 
 
 ## Running the project
 
-    $ node app.js
+    $ node app
